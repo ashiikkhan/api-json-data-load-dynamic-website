@@ -1,0 +1,9 @@
+#posts-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.post-div {
+  background-color: bisque;
+  margin: 20px;
+  padding: 20px;
+}
